@@ -13,7 +13,7 @@ Aqui estão algumas ideias para você começar:
 
 🎅
 
-![alura](www.alura.com.br)
+[alura](www.alura.com.br)
 
 
 
