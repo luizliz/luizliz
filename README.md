@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**luizliz/luizliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui estão algumas ideias para você começar:
 
-Here are some ideas to get you started:
+- 🔭 Atualmente não trabalho, sou apenas estudante
+- 🌱 Atualmente estou aprendendo metérias escolares
+- 👯 Procuro colaborar em meus cursos
+- 🤔 Estou procurando ajuda para melhorar minhas notas
+- 💬 Pergunte-me sobre futebol
+- 📫 Como entrar em contato comigo: eu.luiz0502@gmail.com
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidade: tenho 15 anos, estudo no colégio Estadual Padre Cláudio Morelli, jogo pelo São Joseense.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎅
+
+![alura](www.alura.com.br)
+
+
+
+![](https://media.tenor.com/rs4ZOR3C6AgAAAAM/neymar-sheozinho.gif)
+![](https://media.tenor.com/S4Egc9OxURIAAAAM/vini-jr.gif)
